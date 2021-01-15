@@ -140,54 +140,7 @@ h5.card-title {
 .card {
 	transition: 0.4s;
 }
-#auhtors .card :hover {
-	background: #a4bc46;
-	color: #fff;
-}
-#auhtors h3 {
-	color: #a4bc46;
-}
-.social-icon .fab {
-	font-size: 27px;
-	color: #a4bc46;
-}
-.social-icon i:hover {
-	color: #fff;
-}
-.team-card {
-	margin-bottom: 130px;
-}
 
-#auhtors .card :hover i,
-#auhtors .card :hover h3,
-#auhtors .card :hover a {
-	color: #fff;
-}
-.authors-title {
-	text-align: left !important;
-	margin-bottom: 155px;
-}
-.contact-title {
-	text-align: left !important;
-}
-
-input[type="text"],
-input[type="email"],
-input[type="number"],
-select,
-textarea {
-	border: 1px solid #cacaca;
-	padding: 10px;
-	margin-bottom: 20px;
-	border-radius: 5px;
-}
-span.input-group-text i {
-	padding: 9px 0px;
-}
-a:focus,
-input:focus {
-	outline: 0 solid;
-}
 .footer-bg {
-	background: #a4bc46;
+	background: #330aa3;
 }
