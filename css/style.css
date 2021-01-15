@@ -27,7 +27,7 @@ a.navbar-brand img {
 }
 a.nav-link {
 	font-family: "Fira Sans", sans-serif;
-	font-weight: 600;
+	font-weight:400;
 	color: #333;
 	padding-right: 40px !important;
 }
@@ -133,13 +133,7 @@ h5.card-title {
 	padding-top: 65px;
 }
 
-.author-card {
-	margin-top: -30%;
-	width: 100%;
-}
-.card {
-	transition: 0.4s;
-}
+
 
 .footer-bg {
 	background: #330aa3;
